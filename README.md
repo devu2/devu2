@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @David Uwayezu
 - 👀 I’m interested in working with any team which have aim to change the world for better using programming skills.
-- 🌱 I’m currently doing Apprenticeship at Image rwanda.
 - 💞️ I’m looking to collaborate on any javaScript related Projects.
 - 📫 How to reach me my email is daviduwayezu400@gmail.com
 
